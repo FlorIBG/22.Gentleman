@@ -1,0 +1,75 @@
+a{
+	text-decoration: none;
+}
+               /* Header */
+.fondonegro{
+	background-color: black;
+	height: 100px;
+}
+.posi{
+	display: inline-block;
+	top: 10%;
+	margin-left: 3%;
+}
+.delgado{
+	font-weight: 300;
+}
+nav{
+	margin: 7%;
+}
+/* Article */
+.fondogris{
+	background-color: gray;
+}
+.fondoblanco{
+	background-color: white;
+}
+/* Seccion 1 Explicación de The Gentleman */
+.imgciudad{
+	width: 560px;
+	height: 500px;
+	margin: 8% 12%;
+}
+.sizeh2{
+	font-size: 200%;
+}
+button{
+	background-color: gray;
+	border-radius: 30%;
+	color: white;
+	border: 1px solid gray;
+	cursor: zoom-in;
+}
+button.secc1{
+	width: 100px;
+	padding: 2% 4%;
+}
+article hr{
+	border: 2px dotted gray;
+	margin: 3% 0%;
+}
+/* Sección 2 Mosaico de imágenes */
+.sizeh3{
+	font-size: 160%;
+}
+.margen{
+	display: inline-block;
+}
+#powor{
+	margin-left: -72%;
+}
+#allwor{
+	margin-left: -140%;
+}
+/* Distribucion de las imagenes */
+span.viewspan{
+	/* position: relative; */
+	width: 10px;
+	height: 10px;
+	padding: 0px 1px;
+	/* margin-right: 3%; */
+	border: 2px solid gray;
+	display: inline-table;
+	/* horizontal-align: middle; */
+	/* vertical-align: middle; */
+}
