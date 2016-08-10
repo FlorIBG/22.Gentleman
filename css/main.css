@@ -38,7 +38,7 @@ button{
 	border-radius: 30%;
 	color: white;
 	border: 1px solid gray;
-	cursor: zoom-in;
+	cursor: pointer;
 }
 button.secc1{
 	width: 100px;
@@ -72,4 +72,47 @@ span.viewspan{
 	display: inline-table;
 	/* horizontal-align: middle; */
 	/* vertical-align: middle; */
+}
+/*Boton Load More*/
+button.more{
+	width: 200px;
+	padding: 1% 2%;
+	margin-left: 42%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+              /*seccion Twitter*/
+/*Icono Twitter*/
+.bird{
+	margin-left: 20%;
+	margin-top: -10%;
+}
+.follow{
+	width: 100px;
+	padding: 2%;
+	border-radius: 20% !important;
+	margin-top: 1%;
+	margin-left: 20%;
+	padding-right: 3%;
+}
+.fontfamily1{
+	font-family: Open sans;
+}
+.fontfamily2{
+	font-family: Dosis;
+}
+.tamanop{
+	font-size: 180%;
+	margin-left: -13%;
+	margin-top:-1%;
+}
+                 /* Footer */
+.ajustarfooter{
+	height: 730px;
+}
+ul{
+	list-style: none;
+}
+footer hr{
+	border: solid 1px gray;
 }
